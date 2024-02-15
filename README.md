@@ -1,0 +1,1 @@
+The main purpose of this Repository is to showcase the skills that I am building on in the beggining stages of my Data Analyst Career. So that I can become a valuble employee to anyone organization that decides to hire me. 
